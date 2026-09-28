@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Anslem!
 
-<!--
-**anslemchibuezeokwuike/anslemchibuezeokwuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and Data Analyst with an interest in turning raw data into meaningful insights that can support better decisions.
 
-Here are some ideas to get you started:
+### Skills & Tools I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Data Analysis:** Excel, SQL, Power BI, Python
+* **Python:** Pandas, NumPy
+* **Data Visualization:** Power BI, Excel
+* **Database:** SQL
+* **Other:** Git & GitHub
+
+### What I Do
+
+I enjoy working with data from cleaning and transforming raw datasets to analyzing patterns, creating dashboards, and communicating insights through visualizations.
+
+I'm currently building my experience more through practical projects in **Data Analytics, Business Intelligence, and Data Science**.
+
+### Projects
+
+- [Sales Management System] (....)
+* SQL Data Analysis
+
+### Currently Learning
+
+* Advanced SQL
+* Python for Data Analysis
+* Data Science & Machine Learning
+* Cloud Technologies
+
+
+### Connect With Me
+[Linkedin](https://www.linkedin.com/in/anslem-chibueze-okwuike)
+I'm always open to learning, collaborating, and connecting with people interested in technology and data.
+
