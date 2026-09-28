@@ -30,6 +30,6 @@ I'm currently building my experience more through practical projects in **Data A
 
 
 ### Connect With Me
-[Linkedin](https://www.linkedin.com/in/anslem-chibueze-okwuike)
+[Linkedin](https://www.linkedin.com/in/anslem-chibueze-okwuike-472406419?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 I'm always open to learning, collaborating, and connecting with people interested in technology and data.
 
