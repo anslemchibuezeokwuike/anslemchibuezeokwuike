@@ -18,8 +18,8 @@ I'm currently building my experience more through practical projects in **Data A
 
 ### Projects
 
-- [Sales Management System] (....)
 * SQL Data Analysis
+- [Sales Management System] (https://github.com/anslemchibuezeokwuike/sales-management-system)
 
 ### Currently Learning
 
